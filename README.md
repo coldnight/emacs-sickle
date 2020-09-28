@@ -10,3 +10,12 @@
   Reap $$ with sickle.
 </p>
 
+## Custom fund codes
+
+``` elisp
+(setq sickle-fund-codes '("005827" "519674" "162703" "213001" "160618"))
+```
+
+## Usage
+
+`C-c s f` or `M-x sickle-show`.
