@@ -1,4 +1,4 @@
-;;; sickle.el.el --- sickle.el
+;;; sickle.el --- sickle.el
 
 ;; Author: Gray King <grayking.w@gmail.com>
 ;; Version: 0.1.0
