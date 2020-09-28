@@ -27,4 +27,5 @@ jobs:
       with:
         version: 24.5
     - run: curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python 
+    - run: export PATH="/Users/runner/.cask/bin:$PATH"
     - run: cask build
