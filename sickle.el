@@ -63,4 +63,4 @@
       (sickle-fetch-fund element))))
 
 (global-set-key (kbd "C-c s f") 'sickle-show)
-;;; sickle.el.el ends here
+;;; sickle.el ends here
