@@ -13,9 +13,6 @@
 ;;
 (require 'request)
 
-(setq al '((a . b) (b . c)))
-(cdr (assoc 'a al))
-
 (defconst sickle-tt-fund-url "http://fundgz.1234567.com.cn/js/")
 
 (defun show-item (obj key sep)
